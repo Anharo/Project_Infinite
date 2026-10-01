@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@custom-variant touch (@media (hover: none));
 @theme {
   --animate-drift-1: drift-1 22s ease-in-out infinite;
   --animate-drift-2: drift-2 28s ease-in-out infinite;
